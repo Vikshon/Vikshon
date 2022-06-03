@@ -3,7 +3,7 @@
 
 ❤️ Interested in programming, game dev, video games, anime and space.
 
-⭐ Skilled in: HTML, CSS, JavaScript, Pug, SCSS, NodeJS, MySQL, ~ElectronJS
+⭐ Skilled in: HTML, CSS, JavaScript, Pug, SASS (SCSS), NodeJS, MySQL, ~ElectronJS, ~Webpack
 
 🌱 Currently learning React & Typescript.
 
