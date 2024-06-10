@@ -3,9 +3,9 @@
 
 ❤️ Interested in programming, game dev, video games, anime and space.
 
-⭐ Skilled in: HTML, CSS, JavaScript, Pug, SASS (SCSS), NodeJS, MySQL, ~ElectronJS, ~Webpack
+⭐ Skilled in: 🟢HTML, 🟢CSS, 🟢JavaScript, 🟢Pug, 🟢Ejs, 🟢NodeJS, 🟡SASS (SCSS), 🟡MySQL, 🟡PostgreSQL, 🟡ElectronJS, 🔴Webpack, 🔴TypeScript, 🔴React
 
-🌱 Currently learning React & Typescript.
+🌱 Currently learning Vue.
 
 📫 How to reach me: yakimov.ko@mail.ru or [t.me/Vikshon](https://t.me/Vikshon).
 
